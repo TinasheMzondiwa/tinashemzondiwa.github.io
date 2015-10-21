@@ -43,96 +43,100 @@ Emily Beth Bond:
     "imgUrl": "https://i.ytimg.com/vi/CUsXcnrZT0Q/hqdefault.jpg",
     "link": "https://www.youtube.com/watch?v=CUsXcnrZT0Q"
   },
+
+SE Samonte
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "There Are Two Ways",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/QFvr7tMmhr8/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=QFvr7tMmhr8"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "O God, Do Thou Sustain Me",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/6gUu9XnP7BU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=6gUu9XnP7BU"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "Pardon Me, O My God (Invocation to Martyr's Mirror)",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/pWykBJaWXd4/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=pWykBJaWXd4"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "Wonderful Saviour, Redeemer",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/N7gfptSx2WM/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=N7gfptSx2WM"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "The Lord is My Light",
+    "owner": "SE Samonte",
+    "imgUrl": "http://www.youtube.com/watch?v=WB9xcFvZyBk",
+    "link": "https://i.ytimg.com/vi/WB9xcFvZyBk/maxresdefault.jpg"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "What Heavenly Music",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/O1SL6FRHJFU/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=O1SL6FRHJFU"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "Hark! The Herald Angels Sing",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/ml3BrteGug4/hqdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ml3BrteGug4"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "Angels We Have Heard on High",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/yJZCR30TN_Y/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=yJZCR30TN_Y"
   },
+
+GYC Special Songs:
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2013 - Blessed and Broken (Aubrey Seiler, Glesni Mason, Seán Nebblett)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/f1y6hU5MDVo/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=f1y6hU5MDVo"
   },
   
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2013 - No More Night (Claudia Ramirez)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/BqGM7tDT51M/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=BqGM7tDT51M"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2013 - O Sacred Head Now Wounded (Alessandra Sorace)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/J6IrJWs2nBY/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=J6IrJWs2nBY"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2014 - Embrace the Cross (Alessandra Sorace)",
+    "owner": "IdownsGYC 2014 - God Alone (The Nebblett Family)",
+    "imgUrl": "https://i.ytimg.com/vi/xM8C6_ka95c/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=xM8C6_ka95c"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2014 - In Christ Alone (Pro Deo)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/aCYoV3VZHog/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=aCYoV3VZHog"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "GYC 2014 - God Alone (The Nebblett Family)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/m_jdmPACCIY/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=m_jdmPACCIY"
   },
   {
-    "title": "",
-    "owner": "",
-    "imgUrl": "",
-    "link": ""
+    "title": "Tears Of Heaven (Neville Peter)",
+    "owner": "Matthew Richards",
+    "imgUrl": "https://i.ytimg.com/vi/tqTcA_rgj9o/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=tqTcA_rgj9o"
   },
   {
     "title": "",
