@@ -5,58 +5,28 @@
     "imgUrl": "https://i.ytimg.com/vi/ku3lDe5smB0/mqdefault.jpg",
     "link": "https://www.youtube.com/watch?v=ku3lDe5smB0"
   },
-  /*{
-    "title": "Spend Time With Jesus",
-    "owner": "FountainView Academy",
-    "imgUrl": "https://i.ytimg.com/vi_webp/ar3BxaE1Czs/mqdefault.webp",
-    "link": "https://www.youtube.com/watch?v=ar3BxaE1Czs"
-  },*/
   {
-    "title": "Write Them on My Heart",
-    "owner": "Robbie Folkenberg & Emily Bond",
-    "imgUrl": "https://i.ytimg.com/vi_webp/Y6LBYMOCIJE/mqdefault.webp",
-    "link": "https://www.youtube.com/watch?v=Y6LBYMOCIJE"
+    "title": "Trust & Obey",
+    "owner": "Chelsea Moon",
+    "imgUrl": "https://i.ytimg.com/vi/IrSCxfnN2B8/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=IrSCxfnN2B8"
   },
   {
-    "title": "The Story Behind the Hymn Come Thou Fount of Every Blessing",
-    "owner": "Son Dang",
-    "imgUrl": "https://i.ytimg.com/vi_webp/WI6LH9Lkg0Y/mqdefault.webp",
-    "link": "https://www.youtube.com/watch?v=WI6LH9Lkg0Y"
-  },
-  /*{
-    "title": "Unmasked",
-    "owner": "Sarah Draget",
-    "imgUrl": "https://i.ytimg.com/vi/yCQs-macfmc/hqdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=yCQs-macfmc"
+    "title": "What Heavenly Music",
+    "owner": "SE Samonte",
+    "imgUrl": "https://i.ytimg.com/vi/O1SL6FRHJFU/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=O1SL6FRHJFU"
   },
   {
-    "title": "Heal My Friend",
-    "owner": "Sarah Draget",
-    "imgUrl": "https://i.ytimg.com/vi/3XTA58lmXbc/maxresdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=3XTA58lmXbc"
-  },*/
-  {
-    "title": "Remember",
-    "owner": "Sarah Draget",
-    "imgUrl": "https://i.ytimg.com/vi/IDfQ_DVnOE0/maxresdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=IDfQ_DVnOE0"
-  },
- /* {
-    "title": "Be Mine",
-    "owner": "Sarah Draget",
-    "imgUrl": "https://i.ytimg.com/vi/9cZBiIQt7cU/hqdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=9cZBiIQt7cU"
+    "title": "Faith on Fire",
+    "owner": "Bond Family",
+    "imgUrl": "https://i.ytimg.com/vi/5N_JGjSuCbs/hqdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=5N_JGjSuCbs"
   },
   {
-    "title": "I Know",
-    "owner": "Sarah Draget",
-    "imgUrl": "https://i.ytimg.com/vi/_oOHbCgDAMg/maxresdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=_oOHbCgDAMg"
-  },*/
-  {
-    "title": "The Story Behind the Hymn \"Tis So Sweet\"",
-    "owner": "Get Beyond",
-    "imgUrl": "https://i.ytimg.com/vi/dw2iiQo7apE/hqdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=dw2iiQo7apE"
-  }
+    "title": "GYC 2013 - O Sacred Head Now Wounded (Alessandra Sorace)",
+    "owner": "Idowns",
+    "imgUrl": "https://i.ytimg.com/vi/J6IrJWs2nBY/maxresdefault.jpg",
+    "link": "http://www.youtube.com/watch?v=J6IrJWs2nBY"
+  },
 ]
